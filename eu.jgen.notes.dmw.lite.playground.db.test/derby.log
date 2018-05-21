@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 21 17:10:19 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0160-79d6-f7de-00000fff3f10 
+on database directory memory:/Users/Marek/git/dmw/eu.jgen.notes.dmw.database.test/IEFDB with class loader sun.misc.Launcher$AppClassLoader@54bedef2 
+Loaded from file:/Users/Marek/git/dmw/eu.jgen.notes.dmw.database/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_05-b13
+user.dir=/Users/Marek/git/dmw/eu.jgen.notes.dmw.database.test
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
